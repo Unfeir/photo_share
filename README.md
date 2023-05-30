@@ -1,5 +1,5 @@
 # Photo share app
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://github.com/theneonwhale/frt-photo-share/blob/main/LICENSE.md)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Unfeir/photo_share/blob/main/LICENSE.md)
 ![Version](https://img.shields.io/badge/version-v0.1.0-green)
 --
 Introducing a robust application that offers a secure and interactive platform for photo sharing. With features like JWT token-based authentication, three distinct user roles, and the ability to manage photos by viewing, downloading, and deleting them, users can easily organize their visual memories. Moreover, users can enhance their photos, add tags and descriptions, generate QR codes for easy sharing, engage in comments and ratings, while admins and moderators maintain control over user interactions and ratings.
@@ -91,9 +91,6 @@ Open your web browser and navigate to http://127.0.0.1:8000 to access the API.
 - Sphinx (documentation generator)
 - pytest-cov (coverage reporting for pytest)
 
-### Developers
-
-- [Anton Holovin](https://github.com/Unfeir)
 
 #### License
 This project is licensed under the MIT License.
